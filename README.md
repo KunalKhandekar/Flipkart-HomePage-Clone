@@ -56,7 +56,7 @@ The design and content of the Shooping site were created by Kunal as a sample pr
 
 ## Contact
 
-If you have any questions, feedback, or suggestions regarding the MyMart landing page, please feel free to contact Kunal at kunalkhandekar010@gmail.com
+If you have any questions, feedback, or suggestions regarding this project, please feel free to contact Kunal at kunalkhandekar010@gmail.com
 
 ## Note
 
