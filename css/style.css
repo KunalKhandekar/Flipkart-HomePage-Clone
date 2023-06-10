@@ -481,7 +481,7 @@ footer span {
     }
 
     .more {
-        top: -12px;
+        top: -10px;
         left: 72px
     }
 
@@ -526,7 +526,7 @@ footer span {
         right: 150px;
     }
     .search {
-        width: 70vw;
+        width: 65vw;
     }
 }
 
@@ -590,11 +590,15 @@ footer span {
 
 @media screen and (max-width:306px) {
     .Navigator {
-        padding-bottom: 15px;
+        padding-bottom: 40px;
+    }
+
+    .logo {
+        width: 40vw;
     }
 
     .search {
-        width: 180px;
+        width: 160px;
     }
     .more {
         display: none;
