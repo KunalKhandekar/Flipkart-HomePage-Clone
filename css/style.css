@@ -46,7 +46,6 @@ header {
     display: flex;
     justify-content: center;
     width: 30vw;
-    min-width: 250px;
     margin-right: auto;
     align-items: center;
     color: rgb(157, 154, 154);
@@ -527,7 +526,7 @@ footer span {
         right: 150px;
     }
     .search {
-        width: calc(98vw - 25vw);
+        width: 70vw;
     }
 }
 
@@ -586,5 +585,24 @@ footer span {
     .product-box-offer {
         top: 10px;
         left: 20px;
+    }
+}
+
+@media screen and (max-width:306px) {
+    .Navigator {
+        padding-bottom: 15px;
+    }
+
+    .search {
+        width: 180px;
+    }
+    .more {
+        display: none;
+    }
+}
+
+@media screen and (max-width:280px){
+    .search {
+        width: 150px;
     }
 }
